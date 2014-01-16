@@ -1,9 +1,8 @@
-/*	Pointers & String Arrays
-	Description : Using pointers as reference to string array
+/*	String Arrays
 	By Mathieu Grenier
 */
 
-#include<stdio.h> // include header stdio.h
+#include<stdio.h> // include c function library stdio.h
 
 int main() // declare main function
 {

@@ -1,6 +1,6 @@
 /* 	For Loops
-	Description : Prints incrementials to the screen using for loop
 	By Mathieu Grenier
+	Description : Prints incrementials to the screen using for loop
 */
 
 #include<stdio.h> // include header stdio.h

@@ -1,9 +1,8 @@
 /*	Switch statement
-	Description : Using a switch statement to check conditions
 	By Mathieu Grenier
 */
 
-#include<stdio.h> // include header stdio.h
+#include<stdio.h> // include c function library stdio.h
 
 int main() // declare main function
 {

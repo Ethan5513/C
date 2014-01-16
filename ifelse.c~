@@ -3,7 +3,7 @@
 	By Mathieu Grenier
 */
 
-#include<stdio.h> //include header stdio.h
+#include<stdio.h> //include c fonction library stdio.h
 
 int main() // declare main function
 {

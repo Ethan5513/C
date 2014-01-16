@@ -1,9 +1,8 @@
 /*	Arrays
 	By Mathieu Grenier
-	Description : Using integer arrays
 */
 
-#include<stdio.h> // include header stdio.h
+#include<stdio.h> // include c function library stdio.h
 
 int main() // declare main function
 {

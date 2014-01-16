@@ -1,9 +1,8 @@
 /*	Initializing an array
-	Description : Initializing an array using a loop	
 	By Mathieu Grenier
 */
 
-#include<stdio.h> // include header stdio.h
+#include<stdio.h> // include c function library stdio.h
 
 int main() // declare main function
 {

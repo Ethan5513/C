@@ -2,8 +2,8 @@
 	Description : Using variables and constants
 	By : Mathieu Grenier
 */
-#include<stdio.h> // include header stdio.h
-int main() // declare main function
+#include<stdio.h>
+int main()
 {
 int a, c; //declare a,c as integer number
 signed int d; //declare d as signed integer number

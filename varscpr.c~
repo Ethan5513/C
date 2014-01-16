@@ -2,7 +2,7 @@
 	Description : multiply user input by 2 and prints the result to the screen
 	By : Mathieu Grenier
 */
-#include<stdio.h> // include header stdio. h
+#include<stdio.h> // include c function library stdio. h
 int main() // declare main function
 {
 int a; // declare a as integer number

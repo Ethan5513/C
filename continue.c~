@@ -1,9 +1,8 @@
 /* 	Continue
 	By Mathieu Grenier
-	Description : Using continue to restart a loop from the beginning
 */
 
-#include<stdio.h> // include header stdio.h
+#include<stdio.h> // include c function library stdio.h
 
 int main() // declare main function
 {
