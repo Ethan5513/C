@@ -24,7 +24,7 @@ b=4;
 	    {
 	    printf("%d %d %d %d %d\n", a[i], a[b], a[r1], a[r2], a[r3]); // prints the value of the integer i from array a and escape to a new line
 	    }
-	while (r1=rand() % 4,r3=rand() % 4,b--, i++, i <= 4, b >= 0); // run loop as long as integer i is less than or equals to 4
+	while (r1=rand() % 4,r2=rand() % 4,r3=rand() % 4,b--, i++, i <= 4, b >= 0); // run loop as long as integer i is less than or equals to 4
 b=0;
 i=4;
       printf("\n");
@@ -32,6 +32,6 @@ i=4;
 	    {
 		printf("%d %d %d %d %d\n", a[i], a[b], a[r1], a[r2], a[r3]);
 		}
-		while (r2=rand() % 4,r3=rand() % 4,b++,i--, i >=0, b<=4);
+		while (r1=rand() % 4,r2=rand() % 4,r3=rand() % 4,b++,i--, i >=0, b<=4);
 		return 0; // function should always return 0 at the end
 }
