@@ -23,6 +23,7 @@ int main() // declare main function
     printf("%c %c %c %c %c\n", ca[0], ca[1],ca[2],ca[3],ca[4]); // prints the value of the character array ca to the screen on the same line
 	printf("%c %c %c %c %c\n", ca[4],ca[3],ca[2],ca[1],ca[0]); // prints olleH to the screen to the screen on the same line
 	printf("%c %c %c %c %c\n",sp[0], sp[1], sp[2], sp[3], sp[4]);
+	printf("\n");
  	do // starts loop to print value from integer array a on different lines
 	{
 	printf("%c %c \n", ca[i], ca[o]); // prints the value of the integer i from array a and escape to a new line
@@ -39,6 +40,7 @@ int main() // declare main function
 	while (i >= 0, o <= 4);
 	i =0;
 	o =4;
+	printf("\n");
 	do
 	{
 	printf("%c %c %c %c %c\n", ca[i], ca[o], ca[u], ca[a], ca[b]);
